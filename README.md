@@ -1,3 +1,1 @@
-# A website for LTGJ
-
-
+Just a backup for old website
